@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Ky Teams Page Master</h1>
+<h1 align="center">My Teams Page Master</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://myteamspagemaster.web.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/qFU6ZdE67pmHdyrZEBwt" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Challenge
     </a>
   </h3>
@@ -27,7 +27,7 @@
 ## Overview
 
 
-![screenshot](https://user-images.githubusercontent.com/13947631/180349117-91a0195c-ac5f-4b66-8a22-eaa20d9d64b7.png)
+![screenshot](https://user-images.githubusercontent.com/13947631/180591947-b4cffd54-beab-4eb0-a3aa-6d6d823388a7.png)
 
 ## Features
 
